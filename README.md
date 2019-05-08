@@ -1,5 +1,6 @@
 # myMoney
 Neste app é possível adicionar os gastos diários para controle de suas finanças.
+- Xcode 9.4
 - Firebase
 - CocoaPods
 - Charts
